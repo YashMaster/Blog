@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I thought I would blog, but it turns out I don't. 
 
-### More Information
+### More Information me
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a [LinkedIn](https://www.linkedin.com/in/yashar-bahman-b59a3321/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@yasharbahman](https://twitter.com/yasharbahman)
